@@ -7,7 +7,7 @@
 - :computer:   ReactJS, Node, React Native, Typescript
 - :heart:  Passionate about technology
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jefferson1104&show_icons=true" alt="jefferson1104" /> </p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=jefferson1104&show_icons=true" alt="jefferson1104" /> </p>
 
 
 
