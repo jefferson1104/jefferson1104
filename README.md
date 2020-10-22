@@ -4,7 +4,7 @@
 
 - :nerd_face: I'm a full stack developer
 - :rocket:   I’m currently studying TypeScript, NodeJS, ReactJS and ReactNative
-- :computer:   ReactJS, Node, React Native, Typescript
+- :computer: PHP, NodeJS, ReactJS, React Native, Typescript
 - :heart:  Passionate about technology
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=jefferson1104&show_icons=true" alt="jefferson1104" /> </p>
