@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends, I'm Jefferson Soares.
 
-##### :nerd_face: I'm a fullStack developer
+###### :nerd_face: I'm a fullStack developer
 ##### :rocket:   I’m currently studying TypeScript, TDD, DDD
 #### :computer: My experiences: PHP, NodeJS, ReactJS and React Native
 #### :heart:  Passionate about technology and i love web development
