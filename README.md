@@ -1,7 +1,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends, I'm Jefferson Soares.
 
 ###### :nerd_face: I'm currently working as front-end developer
-###### :rocket: I’m currently studying TypeScript, TDD, DDD
+###### :rocket: I’m currently studying TDD, DDD and Clean Code.
 ###### :computer: Experiences in PHP, NodeJS, ReactJS, NextJS and React Native
 ###### :heart: Passionate about technology and i love web development
 
