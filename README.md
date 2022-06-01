@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 30px;"> What's up my friend, I'm Jefferson Soares.
+## What's up my friend, I'm Jefferson Soares.
 
 ###### :nerd_face: I'm currently working as front-end developer
 ###### :rocket: I’m currently studying TDD, DDD and Clean Code.
