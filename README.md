@@ -4,7 +4,7 @@
 ###### :nerd_face: I'm currently working as front-end developer
 ###### :rocket: I’m currently studying TDD, DDD and Clean Code.
 ###### :computer: Experiences in PHP, NodeJS, ReactJS and React Native
-###### :zap: My top stacks: ReactJS, TypeScript, Jest & react-testing-library, styled-components
+###### :zap: My top stacks: NextJS, TypeScript, styled-components Jest & react-testing-library, CypressJS
 
 ###### 🌐 My Website https://soaresdev.com
 
