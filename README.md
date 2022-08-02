@@ -1,9 +1,11 @@
 ## What's up my friend, I'm Jefferson Soares.
 
+###### :heart: Passionate about technology and i love web development
 ###### :nerd_face: I'm currently working as front-end developer
 ###### :rocket: I’m currently studying TDD, DDD and Clean Code.
-###### :computer: Experiences in PHP, NodeJS, ReactJS, NextJS, GatsbyJS and React Native
-###### :heart: Passionate about technology and i love web development
+###### :computer: Experiences in PHP, NodeJS, ReactJS and React Native
+###### :zap: My top stacks: ReactJS, TypeScript, Jest & react-testing-library, styled-components
+
 ###### 🌐 My Website https://soaresdev.com
 
 
